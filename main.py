@@ -20,7 +20,7 @@ def dividir(a, b):
         return "Error: No se puede dividir por cero"
 
 def main():
-    num1 = float(input("Ingrese el primer número: "))
+    num1 = float(input("Ingrese el primer número:s "))
     num2 = float(input("Ingrese el segundo número: "))
 
     print("Suma:", sumar(num1, num2))
